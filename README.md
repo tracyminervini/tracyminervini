@@ -1,5 +1,6 @@
 - 🔭 Hoje eu trabalho com contabilidade e estou em migração de carreira
-- 🌱 Estou estudando Desenvolvimento Web
+- 🌱 Estou estudando Desenvolvimento Full Stack
+- 💭 O que todos nós precisamos é de uma chance para pelo menos começar.
 
 ### Hello World! Me chamo Tracy Minervini 🖖🤓
 
