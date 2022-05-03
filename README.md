@@ -7,7 +7,7 @@
 
 
 ![Tracy GitHub stats](https://github-readme-stats.vercel.app/api?username=tracyminervini&show_icons=true&count_private=true&theme=cobalt)
-[![ tracyminervini ](https://github-readme-stats.vercel.app/api/top-langs/?username=tracyminervini&hide=html&layout=compact&theme=cobalt)](https://github.com/tracyminervini/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tracyminervini&layout=compact&theme=cobalt)](https://github.com/tracyminervini/github-readme-stats)
 
 
 
